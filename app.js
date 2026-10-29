@@ -38,7 +38,7 @@
 
   const customers = [
     {
-      name: 'Nadia', age: 22, avatar: 'assets/patient-nadia.jpeg',
+      name: 'Nadia', age: 22, avatar: 'foto 3.jpeg',
       complaint: 'Dahi dan hidung berminyak, dengan komedo dan beberapa jerawat kecil.',
       symptoms: ['Area T-zone mengilap', 'Komedo di hidung', 'Jerawat ringan'],
       diagnosis: 'comedonal',
@@ -47,7 +47,7 @@
       bubble: 'Aku ingin kulit terasa lebih bersih tanpa digosok kasar.'
     },
     {
-      name: 'Raka', age: 24, avatar: 'assets/patient-raka.jpeg',
+      name: 'Raka', age: 24, avatar: 'foto 2.jpeg',
       complaint: 'Pipi merah dan beberapa jerawat terasa nyeri saat disentuh.',
       symptoms: ['Jerawat merah dan meradang', 'Sebagian terasa nyeri', 'Kulit berisiko makin iritasi'],
       diagnosis: 'inflammatory',
@@ -56,7 +56,7 @@
       bubble: 'Jerawatku sedang merah dan sakit. Apa yang aman?'
     },
     {
-      name: 'Citra', age: 25, avatar: 'assets/patient-citra.jpeg',
+      name: 'Citra', age: 25, avatar: 'foto 5. jpeg.jpeg',
       complaint: 'Komedo tertutup di dahi dan dagu, serta kulit mudah berminyak.',
       symptoms: ['Komedo tertutup', 'Minyak berlebih', 'Tidak terlihat luka terbuka'],
       diagnosis: 'comedonal',
@@ -65,7 +65,7 @@
       bubble: 'Aku ingin tahu fungsi alat yang membantu membersihkan permukaan kulit.'
     },
     {
-      name: 'Dimas', age: 23, avatar: 'assets/patient-dimas.jpeg',
+      name: 'Dimas', age: 23, avatar: 'foto 4.jpeg',
       complaint: 'Wajah terasa perih dan kemerahan setelah memakai produk baru.',
       symptoms: ['Kulit terasa perih', 'Kemerahan', 'Toleransi kulit menurun'],
       diagnosis: 'sensitive',
@@ -74,7 +74,7 @@
       bubble: 'Kulitku sedang sensitif. Tolong jangan sampai makin iritasi.'
     },
     {
-      name: 'Salsa', age: 21, avatar: 'assets/patient-salsa.jpeg',
+      name: 'Salsa', age: 21, avatar: 'foto 2.jpeg',
       complaint: 'Kulit berminyak dan ada jerawat ringan, tetapi pipi mudah kemerahan.',
       symptoms: ['Minyak berlebih', 'Jerawat ringan', 'Pipi mudah kemerahan'],
       diagnosis: 'oilyAcne',
@@ -83,7 +83,7 @@
       bubble: 'Aku ingin perawatan yang lembut dan sesuai kondisi kulitku.'
     },
     {
-      name: 'Farhan', age: 26, avatar: 'assets/patient-raka.jpeg',
+      name: 'Farhan', age: 26, avatar: 'foto 4.jpeg',
       complaint: 'Ada jerawat besar dan dalam yang nyeri serta mulai meninggalkan bekas.',
       symptoms: ['Jerawat dalam dan nyeri', 'Risiko bekas luka', 'Perlu penilaian profesional'],
       diagnosis: 'severe',
