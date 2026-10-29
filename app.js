@@ -74,7 +74,7 @@
       bubble: 'Kulitku sedang sensitif. Tolong jangan sampai makin iritasi.'
     },
     {
-      name: 'Salsa', age: 21, avatar: 'foto 2.jpeg',
+      name: 'Salsa', age: 21, avatar: 'foto 3.jpeg',
       complaint: 'Kulit berminyak dan ada jerawat ringan, tetapi pipi mudah kemerahan.',
       symptoms: ['Minyak berlebih', 'Jerawat ringan', 'Pipi mudah kemerahan'],
       diagnosis: 'oilyAcne',
